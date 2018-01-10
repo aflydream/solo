@@ -162,6 +162,7 @@ Solo 的诞生离不开以下开源项目：
 add a line
 add a new line
 add a new line too
+add a new new line
 </strong>
 <br><br>
 <img src="https://cloud.githubusercontent.com/assets/873584/26024667/c031e40a-3808-11e7-9176-f2c9af01bd64.png">
